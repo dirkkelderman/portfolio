@@ -1,8 +1,8 @@
-.left {
+.leftSection {
     display: flex;
 	align-items: center;
     justify-content: space-around;  
-    height: 500px;
+    height: 250px;
     width: 49%; 
     float: left;
     border: 1px solid black;
@@ -11,21 +11,17 @@
 
 }
 
-.right {
+.rightSection {
     display: flex;
 	align-items: center;
     justify-content: space-around;  
-    height: 500px;
+    height: 250px;
     width: 49%; 
     float: right;
     text-decoration: none;
     color: black;
+    border: 1px solid black;
+
 
 }
-
-// .container {
-//     div {
-//         column-count: ;
-//     }
-// }
 
